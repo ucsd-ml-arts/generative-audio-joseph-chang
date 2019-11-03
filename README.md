@@ -1,8 +1,6 @@
 # Project 3 Generative Audio
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammate's contact info, if appropriate)
+Joseph Chang, jdchang@ucsd.edu
 
 ## Abstract
 
