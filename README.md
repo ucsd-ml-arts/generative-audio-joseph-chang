@@ -4,7 +4,11 @@ Joseph Chang, jdchang@ucsd.edu
 
 ## Abstract
 
-The goal of this project is to use a Performance RNN to generate MIDI music from past experience. It will take in a word as input and output music based on that word. This would require a music dataset with each piece labeled with a word. That might be complicated or hard to find. If not, could have a gansynth interpolator added so the performance RNN produces a music piece based on genre mixed with other genres to a lesser extent and the interpolator mixes the music together. This could be very useful in general to have a song DJ without an actual DJ. Another idea is to use generate music using speech.
+Idea 1
+The goal of this project is to use a Performance RNN to generate MIDI music from past experience. It will take in a word as input and output music based on that word. This would require a music dataset with each piece labeled with a word. That might be complicated or hard to find. 
+
+Idea 2
+Could have a gansynth interpolator added so the performance RNN produces a music piece based on genre mixed with other genres to a lesser extent and the interpolator mixes the music together. This could be very useful in general to have a song DJ without an actual DJ. Another idea is to use generate music using speech.
 
 Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
 
