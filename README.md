@@ -39,6 +39,17 @@ Any implementation details or notes we need to repeat your work.
 - Does it run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
+MIDI to MP3 Converter
+
+https://www.online-convert.com/result/9cb76d5d-bee8-4ac5-be68-72409cc61c6e
+
+Merge MP3 Audio Clips
+
+https://audio-joiner.com/
+
+MP3 to MIDI Converter
+
+https://www.bearaudiotool.com/mp3-to-midi
 
 References to any papers, techniques, repositories you used:
 - Papers
