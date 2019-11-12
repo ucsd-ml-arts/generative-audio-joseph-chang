@@ -16,8 +16,13 @@ Briefly describe the files that are included with your repository:
 
 ## Code
 
-DeepVoice3 & Gansynth - https://colab.research.google.com/drive/1JpWuvyPCZqGdsXuclHqKidvf2yx_NFtc?authuser=2#scrollTo=munWT14jLlPQ
-Performance RNN - https://colab.research.google.com/drive/1hjyIbdeC1ziwE7y4wzC84YWFYuCWF2cP?authuser=2#scrollTo=3CrPCnJeZhx4
+DeepVoice3 
+
+https://colab.research.google.com/drive/1JpWuvyPCZqGdsXuclHqKidvf2yx_NFtc?authuser=2#scrollTo=munWT14jLlPQ
+
+Performance RNN & Gansynth 
+
+https://colab.research.google.com/drive/1W6yGQP3bJ-IfvSpLgr9ELJ68jr6SBgES?authuser=2#scrollTo=_IuvROAJJQ58
 
 ## Results
 
