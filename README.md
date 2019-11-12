@@ -4,9 +4,7 @@ Joseph Chang, jdchang@ucsd.edu
 
 ## Abstract
 
-The goal of this project is to produce music using speech. A person will write whatever lyrics they want and DeepVoice will translate it into speech. Performance RNN is used separately to produce a music pieces based on various genres mixed together. Gansynth then interpolates the various music pieces generated. Finally, the singing speech and music can be combined on Garage Band. This could be very useful for artists to experiment with new music.
-
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+The goal of this project is to produce music and written text in Python using Machine Learning. This hands-off approach will allow artists to experiment with new music or find inspiration for new songs. A person will write whatever lyrics they want and DeepVoice will translate it into speech using a model created from a woman's voice. Performance RNN is then separately used to produce a music piece based on a combination of multiple, generated music phrases. These phrases are similar to a bass guitar audio clip on which the model was trained. Gansynth is used to interpolate a MIDI file of Frank Mill's Musicbox Dancer. Finally, the speech, generated music, and interpolated music are combined on the Davinci Resolve video editor. This project succeeds in producing comprehendable human speech and completely new music. However, it is not near the quality one would want from an actual artist. A future direction would be to include training a RNN model for singing rather than just speaking.
 
 ## Model/Data
 
@@ -18,13 +16,15 @@ Briefly describe the files that are included with your repository:
 
 DeepVoice3 
 
-https://colab.research.google.com/drive/1JpWuvyPCZqGdsXuclHqKidvf2yx_NFtc?authuser=2#scrollTo=munWT14jLlPQ
+https://colab.research.google.com/drive/1JpWuvyPCZqGdsXuclHqKidvf2yx_NFtc
 
 Performance RNN & Gansynth 
 
-https://colab.research.google.com/drive/1W6yGQP3bJ-IfvSpLgr9ELJ68jr6SBgES?authuser=2#scrollTo=_IuvROAJJQ58
+https://colab.research.google.com/drive/1W6yGQP3bJ-IfvSpLgr9ELJ68jr6SBgES
 
 ## Results
+
+https://www.youtube.com/watch?v=48HugqVAv9o
 
 Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
 - `.wav` files or `.mp4`
