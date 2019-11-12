@@ -60,6 +60,10 @@ MP3 to MIDI Converter
 
 https://www.bearaudiotool.com/mp3-to-midi
 
+Trim MIDI File
+
+http://midi.mathewvp.com/midiTrim.php
+
 References to any papers, techniques, repositories you used:
 - Papers
 - Repositories
