@@ -22,11 +22,11 @@ https://www.midiworld.com/search/?q=dance
 
 DeepVoice3 
 
-https://colab.research.google.com/drive/1JpWuvyPCZqGdsXuclHqKidvf2yx_NFtc
+  https://colab.research.google.com/drive/1JpWuvyPCZqGdsXuclHqKidvf2yx_NFtc
 
 Performance RNN & Gansynth 
 
-https://colab.research.google.com/drive/1W6yGQP3bJ-IfvSpLgr9ELJ68jr6SBgES
+  https://colab.research.google.com/drive/1W6yGQP3bJ-IfvSpLgr9ELJ68jr6SBgES
 
 ## Results
 
