@@ -16,9 +16,8 @@ Briefly describe the files that are included with your repository:
 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+DeepVoice3 & Gansynth - https://colab.research.google.com/drive/1JpWuvyPCZqGdsXuclHqKidvf2yx_NFtc?authuser=2#scrollTo=munWT14jLlPQ
+Performance RNN - https://colab.research.google.com/drive/1hjyIbdeC1ziwE7y4wzC84YWFYuCWF2cP?authuser=2#scrollTo=3CrPCnJeZhx4
 
 ## Results
 
