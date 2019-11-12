@@ -8,9 +8,15 @@ The goal of this project is to produce music and written text in Python using Ma
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+- DeepVoice is trained on the model 20180505_deepvoice3_ljspeech.json which is found online. The code automatically downloads it.
+
+- Performance RNN is run on the SGM-v2.01-Sal-Guit-Bass-V1.3.sf2 audio sample from Soundfonts4u which combines guitar and bass. 
+
+https://sites.google.com/site/soundfonts4u/
+
+- Gansynth interpolates on Frank_Mills_-_ Musicbox_Dancer.mid audio from Midiworld.
+
+https://www.midiworld.com/search/?q=dance
 
 ## Code
 
@@ -39,14 +45,6 @@ Any implementation details or notes we need to repeat your work.
 - Does it run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
-
-Soundfonts4u - SGM-v2.01-Sal-Guit-Bass-V1.3.sf2 audio
-
-https://sites.google.com/site/soundfonts4u/
-
-Midiworld - Frank_Mills_-_Musicbox_Dancer.mid audio
-
-https://www.midiworld.com/search/?q=dance
 
 MIDI to MP3 Converter
 
