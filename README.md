@@ -39,11 +39,16 @@ Any implementation details or notes we need to repeat your work.
 - Does it run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
+
+Soundfonts4u - SGM-v2.01-Sal-Guit-Bass-V1.3.sf2 audio
+
+https://sites.google.com/site/soundfonts4u/
+
 MIDI to MP3 Converter
 
 https://www.online-convert.com/result/9cb76d5d-bee8-4ac5-be68-72409cc61c6e
 
-Merge MP3 Audio Clips
+MP3 Audio Joiner
 
 https://audio-joiner.com/
 
