@@ -14,6 +14,16 @@ SGM-v2.01-Sal-Guit-Bass-V1.3.sf2
 - https://sites.google.com/site/soundfonts4u/
 - Performance RNN is run on this audio sample from Soundfonts4u which combines guitar and bass. The .sf2 file must be added to the /tmp/ directory to be accessed by the code.
 
+DeepVoice3 converts the following hopeful quotes text to speech
+- "Good, better, best. Never let it rest. 'Til your good is better and your better is best."
+- "The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart."
+- "The best preparation for tomorrow is doing your best."
+- "Every next level of your life will demand a different you."
+- "If your goals don't scare you. They aren't big enough."
+- "Don't listen to what they say."
+- "Be fearless in the pursuit of what sets your soul on fire."
+- "The greatest glory in living lies not in never falling, but in rising every time we fall."
+
 Frank_Mills_-_ Musicbox_Dancer.mid
 - https://www.midiworld.com/search/?q=dance
 - Gansynth interpolates this music piece from Midiworld. The .mid file must be added to the /gansynth/midi/ directory to be accessed by the code.
@@ -24,14 +34,6 @@ DeepVoice3
 - https://colab.research.google.com/drive/1JpWuvyPCZqGdsXuclHqKidvf2yx_NFtc
 - Training and generation code
 - Converts the following hopeful quotes text to a woman's speech
-    "Scientists at the CERN laboratory say they have discovered a new particle."
-    "There's a way to measure the acute emotional intelligence that has never gone out of style."
-    "President Trump met with other leaders at the Group of 20 conference."
-    "The Senate's bill to repeal and replace the Affordable Care Act is now imperiled."
-    "Generative adversarial network or variational auto-encoder."
-    "The buses aren't the problem, they actually provide a solution."
-    "peter piper picked a peck of pickled peppers how many peppers did peter piper pick."
-    "Some have accepted this as a miracle without any physical explanation."
 
 Performance RNN
 - https://colab.research.google.com/drive/1W6yGQP3bJ-IfvSpLgr9ELJ68jr6SBgES
