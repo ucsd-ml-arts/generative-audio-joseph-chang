@@ -27,8 +27,8 @@ DeepVoice3
 
 Performance RNN
 - https://colab.research.google.com/drive/1W6yGQP3bJ-IfvSpLgr9ELJ68jr6SBgES
-- Takes SGM-v2.01-Sal-Guit-Bass-V1.3.sf2 music as input to build RNN
-- Generates similar sounding samples of music each 5 seconds long (can be adjusted)
+- Takes SGM-v2.01-Sal-Guit-Bass-V1.3.sf2 music as input to build the RNN
+- Generates similar sounding samples of music each 5 seconds long (length can be adjusted)
 
 Gansynth
 - https://colab.research.google.com/drive/1W6yGQP3bJ-IfvSpLgr9ELJ68jr6SBgES
