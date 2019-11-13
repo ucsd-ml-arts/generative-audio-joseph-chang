@@ -12,18 +12,18 @@ DeepVoice is trained on the model 20180505_deepvoice3_ljspeech.json which is fou
 
 SGM-v2.01-Sal-Guit-Bass-V1.3.sf2
 - https://sites.google.com/site/soundfonts4u/
-- Performance RNN is run on this audio sample from Soundfonts4u which combines guitar and bass. The sf2 file must be added to the /tmp/ directory to be accessed by the code.
+- Performance RNN is run on this audio sample from Soundfonts4u which combines guitar and bass. The .sf2 file must be added to the /tmp/ directory to be accessed by the code.
 
 Frank_Mills_-_ Musicbox_Dancer.mid
 - https://www.midiworld.com/search/?q=dance
-- Gansynth interpolates this music piece from Midiworld.
+- Gansynth interpolates this music piece from Midiworld. The .mid file must be added to the /gansynth/midi/ directory to be accessed by the code.
 
 ## Code
 
 DeepVoice3 
 - https://colab.research.google.com/drive/1JpWuvyPCZqGdsXuclHqKidvf2yx_NFtc
 - Training and generation code
-- Converts hopeful quotes text to woman's speech
+- Converts hopeful quotes text to a woman's speech
 
 Performance RNN
 - https://colab.research.google.com/drive/1W6yGQP3bJ-IfvSpLgr9ELJ68jr6SBgES
