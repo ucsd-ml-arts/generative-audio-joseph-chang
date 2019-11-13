@@ -45,23 +45,9 @@ This implementation requires Google Colab which is an open source coding noteboo
 
 ## Reference
 
-MIDI to MP3 Converter
+- [Online-Convert](https://www.online-convert.com/result/9cb76d5d-bee8-4ac5-be68-72409cc61c6e): MIDI to MP3 Converter
+- [Audio-Joiner](https://audio-joiner.com/): MP3 Audio Joiner
+- [Bear Audio](https://www.bearaudiotool.com/mp3-to-midi): MP3 to MIDI Converter
+- Trim Midi File](http://midi.mathewvp.com/midiTrim.php): Trim MIDI File
 
-https://www.online-convert.com/result/9cb76d5d-bee8-4ac5-be68-72409cc61c6e
 
-MP3 Audio Joiner
-
-https://audio-joiner.com/
-
-MP3 to MIDI Converter
-
-https://www.bearaudiotool.com/mp3-to-midi
-
-Trim MIDI File
-
-http://midi.mathewvp.com/midiTrim.php
-
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
