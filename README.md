@@ -1,4 +1,4 @@
-# Project 3 Generative Audio
+# Project 2 Generative Audio
 
 Joseph Chang, jdchang@ucsd.edu
 
